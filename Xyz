@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <style>
+    table {
+      font-weight: 500;
+    }
+
+    th,
+    td {
+      border: 1px solid black;
+      padding: 10px;
+      text-align: left;
+    }
+
+    tr:nth-child(even) {
+      background-color: #D4954B;
+
+    }
+
+    tr:nth-child(odd) {
+
+      background-color: #9E52DD;
+    }
+  </style>
+  <table>
+    <title>About Myself</title>
+    <style type="text/css">
+      img {
+        width: 120px;
+        height: 120px;
+      }
+
+      body {
+        background-color:#6093C9;
+      }
+    </style>
+</head>
+
+<body>
+  <div>
+    <table>
+      <tr>
+        <td>Name : </td>
+        <td> Shruti Raj</td>
+        <td rowspan="3"><img src="https://lh3.googleusercontent.com/pw/AM-JKLVVTfODA-7ZY4WsaiM0jfFsvr6-24DtqynfvinMmoIcSnEmwtP0ljZLzrwgmwz3UYsWQJdfIrHePWvRae_5wUoQiyZv7CfNBrxsrzPNRC7vExgQf9a_6lX5xG3y2UmsODyKPkLAe8ULdtVUZwcUmAjb=w725-h903-no?authuser=0" alt=" image is dislayed here" /></td>
+        </td>
+      </tr>
+      <tr>
+        <td>Roll : </td>
+        <td>2006123</td>
+      </tr>
+      <tr>
+        <td>Branch :</td>
+        <td>CSE</td>
+      </tr
+    </table>
+  </div>
+</body>
+</html>
